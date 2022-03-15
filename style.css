@@ -120,7 +120,11 @@ body{
     background-color: #1d1d1d3f;
 }
 
-/*img{
-    height: 50px;
-    width: 50px;
-}*/
+
+.autor{
+    position: absolute;
+    bottom: 0;
+    margin: 0px 0px 10px 5px;
+    text-decoration: none;
+    color: #b87100;
+}
